@@ -2,7 +2,5 @@
 settings_local.py
 
 # .idea DIR
-.idea
-*.iml
-*.iws
-*.ipr
+.idea/workspace.xml
+.idea/tasks.xml
