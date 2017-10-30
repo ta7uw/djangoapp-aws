@@ -2,5 +2,6 @@
 settings_local.py
 
 # .idea DIR
+/.idea
 .idea/workspace.xml
 .idea/tasks.xml
