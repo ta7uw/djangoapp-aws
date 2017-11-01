@@ -9,8 +9,8 @@ It use PostgreSQL for Django's database and use Python3
 
 ## Requirement
 To install django, use pip.
-```
-$ pip install django  
+```  
+$ pip install django
 $ pip install awsebcli
 $ pip install psycopg2
 ```
