@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "myapp"
 ]
 
 MIDDLEWARE = [
@@ -139,6 +140,6 @@ STATIC_URL = '/static/'
 # STATICFILES_DIRS = [
 #     os.path.join(BASE_DIR, 'static'),
 # ]
-# 本番環境用　Linux 絶対パス　ローカルではいらない
+
 STATIC_ROOT = os.path.join(BASE_DIR, "static")
 
